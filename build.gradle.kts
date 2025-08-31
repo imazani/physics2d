@@ -15,7 +15,7 @@ java {
 
 application {
     // Fully qualified name of your main class (we’ll create it below)
-    mainClass.set("engine.Main")
+    mainClass.set("org.imazani.physics2d.app.MainAWT")
 }
 
 repositories {
